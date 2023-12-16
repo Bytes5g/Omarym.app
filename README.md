@@ -15,6 +15,9 @@
   <a href="https://omarym.app/"><strong>واتساب عمر -الموقع الرسمي &rarr;</strong></a>
 </p>
 
+<p align="center">
+  <a href="https://omarym.app/"><strong>واتساب عمر &rarr;</strong></a>
+</p>
 
 ## نبذهه
 
